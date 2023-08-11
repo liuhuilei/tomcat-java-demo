@@ -1,4 +1,4 @@
-### 使用步骤
+### 项目部署大致步骤
 ```
 1、安装MySQL数据库
 docker run -d --name mysql57 -p 3306:3306 -e MYSQL_ROOT_PASSWORD=123456 mysql:5.7
